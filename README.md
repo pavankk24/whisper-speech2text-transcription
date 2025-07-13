@@ -29,25 +29,11 @@ This project is a real-time voice-to-text transcription app built with **Flask**
 
 ---
 
-## 📁 Project Structure
-
-whisper-flask-realtime-transcription/
-├── app.py # Flask backend and Whisper integration
-├── templates/
-│ └── index.html # Frontend HTML page
-├── static/
-│ └── script.js # JavaScript for recording audio
-├── temp/ # Temporary audio files (auto-created)
-├── requirements.txt
-└── README.md
-
----
-
 ## 🚀 Installation and Running the App with `uv package manager`
 
 Step 1: Create Virtual Environment and Install Dependencies
 >uv venv
->source .venv/bin/activate       # On Windows: .venv\Scripts\activate
+>source .venv/bin/activate &nbsp;&nbsp;&nbsp;&nbsp; # On Windows: .venv\Scripts\activate
 
 >uv add flask torch transformers scipy
 
