@@ -6,11 +6,11 @@ This project is a real-time voice-to-text transcription app built with **Flask**
 
 ## Features
 
-- 🎤 Record speech directly in the browser
-- 🧠 Transcribe audio using `openai/whisper-large-v3-turbo`
-- ⚡ GPU support via PyTorch (optional)
-- ⏱ Displays transcription latency in real-time
-- 🌐 Lightweight web interface (HTML5 + JavaScript)
+- Record speech directly in the browser
+- Transcribe audio using `openai/whisper-large-v3-turbo`
+- GPU support via PyTorch (optional)
+- Displays transcription latency in real-time
+- Lightweight web interface (HTML5 + JavaScript)
 
 ---
 
@@ -29,7 +29,7 @@ This project is a real-time voice-to-text transcription app built with **Flask**
 
 ---
 
-## 🚀 Installation and Running the App with `uv package manager`
+## Installation and Running the App with `uv package manager`
 
 Step 1: Create Virtual Environment and Install Dependencies
 >uv venv
